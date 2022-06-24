@@ -7393,6 +7393,17 @@
       }
     ]
   },
+  "mdpi.com": {
+    "_name": "MDPI",
+    "www": [
+      {
+        "title": "Journal",
+        "docs": "https://docs.rsshub.app/journal.html#MDPI",
+        "source": "/journal/:journal",
+        "target": "/mdpi/:journal"
+      }
+    ]
+  },
   "medsci.cn": {
     "_name": "梅斯医学",
     ".": [
@@ -9969,6 +9980,29 @@
           "/"
         ],
         "target": "/subhd/zu/:category?"
+      }
+    ]
+  },
+  "supchina.com": {
+    "_name": "SupChina",
+    ".": [
+      {
+        "title": "Feed",
+        "docs": "https://docs.rsshub.app/new-media.html#supchina-feed",
+        "source": [
+          "/feed",
+          "/"
+        ],
+        "target": "/supchina"
+      },
+      {
+        "title": "Podcasts",
+        "docs": "https://docs.rsshub.app/new-media.html#supchina-podcasts",
+        "source": [
+          "/podcasts",
+          "/"
+        ],
+        "target": "/supchina/podcasts"
       }
     ]
   },

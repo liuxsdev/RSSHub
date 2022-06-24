@@ -1612,6 +1612,9 @@
     "/mcachicago/exhibitions": [
         "chazeon"
     ],
+    "/mdpi/:journal": [
+        "Derekmini"
+    ],
     "/medsci/:sid?/:tid?": [
         "nczitzk"
     ],
@@ -2275,6 +2278,12 @@
         "nczitzk"
     ],
     "/subhd/zu/:category?": [
+        "nczitzk"
+    ],
+    "/supchina/podcasts": [
+        "nczitzk"
+    ],
+    "/supchina/": [
         "nczitzk"
     ],
     "/swissinfo/:language?/:category?": [
